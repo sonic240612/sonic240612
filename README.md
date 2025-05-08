@@ -1,5 +1,3 @@
-<div align="center">
-
 ## Seongwoo Choi
 
 **Major:** Computer Engineering
