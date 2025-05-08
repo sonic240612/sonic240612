@@ -3,6 +3,7 @@
 ## Seongwoo Choi
 
 **Major:** Computer Engineering
+
 **Interests:** Stable Diffusion, Unity
 
 <!--
