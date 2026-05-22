@@ -1,7 +1,7 @@
 ## Seongwoo Choi
 
 **Major:** Computer Engineering  
-**Interests:** Stable Diffusion, Unity  
+**Interests:** Stable Diffusion, AI Agents, LLM
 
 <!--
 **sonic240612/sonic240612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
