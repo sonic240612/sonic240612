@@ -31,9 +31,9 @@
 
 🔗 [projects-portal (GitHub)](https://github.com/sonic240612/projects-portal) · [Live Demo](https://projects-portal-beta.vercel.app)
 
-| 🎮 Playground | 🔧 Tools | ☕ Life |
-|--------------|----------|--------|
-| open-survivor · LADDER · TikaTuka · Apex Button · iF · Mars Panic!!! | WhereTo? · PixelCircle | HueWorld · zen_pebble · Focus Forest |
+| 🎮 Playground | 🔧 Tools | 🧪 Lab | ☕ Life |
+|--------------|----------|--------|--------|
+| open-survivor · LADDER · TikaTuka · Apex Button · iF · Mars Panic!!! | WhereTo? · PixelCircle | Lodex · hand-in-hand | HueWorld · zen_pebble · Focus Forest |
 
 ## 🚀 Featured Projects
 
