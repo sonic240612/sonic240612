@@ -15,7 +15,7 @@
 
 ## 📦 Projects Portal
 
-프로젝트와 대회 참여 기록을 한 번에 볼 수 있는 포털 페이지입니다.
+제가 만든 프로젝트를 한 번에 볼 수 있는 포털 페이지입니다.
 
 🔗 [projects-portal (GitHub)](https://github.com/sonic240612/projects-portal) · [Live Demo](https://projects-portal-beta.vercel.app)
 
