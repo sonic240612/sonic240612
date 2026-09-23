@@ -11,29 +11,21 @@
 
 프론트엔드·백엔드·배포까지 LLM과 코딩 에이전트와 함께 개발하고 있습니다. AI를 개발 도구로 쓰는 것뿐 아니라, 제품 안에 AI 기능을 직접 구현하는 것도 관심사입니다 (iF). 관심 분야를 실제 서비스로 만들어보며, 관심을 프로젝트로 꾸준히 이어가고 있습니다.
 
-## 🛠️ 사용한 기술
-
-> 아래는 프로젝트에 적용된 스택입니다. AI와 함께 개발하면서 직접 다루며 익혀가는 중이에요.
-
-| 구분 | 기술 |
-|------|------|
-| Frontend | TypeScript · React (Vite), JavaScript |
-| Backend | Node.js (Express · Fastify), Python (FastAPI) |
-| AI / ML | LLM Integration, RAG |
-| DB / Realtime | PostgreSQL (+ PostGIS), Supabase Realtime, Socket.IO |
-| Infra | Docker, Vercel |
-
 1인이 기획부터 배포까지 전체를 책임지는 구조에서, **어떤 기술을 조합할지 결정하고 AI가 만든 결과를 검증·마무리하는 것**이 제 주된 역할입니다.
 
 ## 📦 Projects Portal
 
-제가 만든 모든 서비스를 한 번에 볼 수 있는 포털 페이지입니다.
+프로젝트와 대회 참여 기록을 한 번에 볼 수 있는 포털 페이지입니다.
 
 🔗 [projects-portal (GitHub)](https://github.com/sonic240612/projects-portal) · [Live Demo](https://projects-portal-beta.vercel.app)
 
 | 🎮 Playground | 🔧 Tools | 🧪 Lab | ☕ Life |
 |--------------|----------|--------|--------|
 | open-survivor · LADDER · TikaTuka · Apex Button · iF · Mars Panic!!! | WhereTo? · PixelCircle | Lodex · hand-in-hand | HueWorld · zen_pebble · Focus Forest |
+
+## 🏆 Competitions
+
+**2 / 81** - 2026 국립공원 위성 모니터링 AI 챌린지 — 주제 2: 산사태 붕괴지 탐지 및 위험도 분석
 
 ## 🚀 Featured Projects
 
@@ -71,3 +63,15 @@
 ### Mars Panic!!! — 비공개 프로젝트
 
 Playground(게임) 카테고리의 비공개 프로젝트입니다. 개인적으로 제작 중인 멀티플레이 게임이며, 상세 내용은 추후 공개 예정입니다.
+
+## 🛠️ 사용한 기술
+
+> 아래는 프로젝트에 적용된 스택입니다. AI와 함께 개발하면서 직접 다루며 익혀가는 중이에요.
+
+| 구분 | 기술 |
+|------|------|
+| Frontend | TypeScript · React (Vite), JavaScript |
+| Backend | Node.js (Express · Fastify), Python (FastAPI) |
+| AI / ML | LLM Integration, RAG |
+| DB / Realtime | PostgreSQL (+ PostGIS), Supabase Realtime, Socket.IO |
+| Infra | Docker, Vercel |
