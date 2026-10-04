@@ -21,7 +21,7 @@
 
 | 🎮 Playground | 🔧 Tools | 🧪 Lab | ☕ Life |
 |--------------|----------|--------|--------|
-| open-survivor · LADDER · TikaTuka · Apex Button · iF · Mars Panic!!! | WhereTo? · PixelCircle | Lodex · hand-in-hand | HueWorld · zen_pebble · Focus Forest |
+| open-survivor · LADDER · TikaTuka · iF · Mars Panic!!! | WhereTo? · PixelCircle | Lodex · hand-in-hand | HueWorld · zen_pebble · Focus Forest |
 
 ## 🏆 Competitions
 
