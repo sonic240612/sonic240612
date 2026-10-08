@@ -25,7 +25,7 @@
 
 ## 🏆 Competitions
 
-**2 / 81** - 2026 국립공원 위성 모니터링 AI 챌린지 — 주제 2: 산사태 붕괴지 탐지 및 위험도 분석
+**2nd / 81 · Top 2.5% · 최우수상** - [2026 국립공원 위성 모니터링 AI 챌린지 — 주제 2: 산사태 붕괴지 탐지 및 위험도 분석](https://aifactory.space/ko/competitions/9305)
 
 ## 🚀 Featured Projects
 
