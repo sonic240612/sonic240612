@@ -29,6 +29,17 @@
 
 ## 🚀 Featured Projects
 
+### Lodex — 로컬 LLM 기반 데스크톱 AI 에이전트
+
+> 로컬 LLM과 OpenRouter 모델을 연결해 프로젝트의 계획 수립부터 코드 수정·검증까지 수행하는 데스크톱 AI 에이전트입니다. 현재 초기 개발 단계입니다.
+
+- **Plan / Build 분리** — 읽기 전용 계획 수립과 권한 설정에 따른 실행을 구분
+- **모델 라우팅·병렬 작업** — Plan·Build·서브에이전트별 모델 선택, Git worktree로 격리된 Build 서브에이전트 실행
+- **확장과 컨텍스트 관리** — Skills·MCP 연동, 대화 압축과 로컬 작업 기록 유지
+- Tauri + React 데스크톱 UI, Node.js 에이전트 데몬, SQLite 로컬 저장소
+
+🔗 [GitHub](https://github.com/sonic240612/Lodex)
+
 ### iF — AI 캐릭터 채팅 & 인터랙티브 스토리텔링 플랫폼
 
 > 유저가 서사의 주체가 되는 AI 캐릭터 채팅 플랫폼입니다. 대화할수록 캐릭터의 관계와 말투가 변합니다.
@@ -48,17 +59,6 @@
 - React 19 + Leaflet 프론트엔드, Express + PostgreSQL (Neon) 백엔드
 
 🔗 [GitHub](https://github.com/sonic240612/whereto) · [Live Demo](https://whereto-swart.vercel.app)
-
-### HueWorld — 실시간 글로벌 무드 맵
-
-> 사람들이 지금 느끼는 감정을 색깔로 표현하고, 어두운 세계 지도 위에 LED 픽셀로 시각화합니다.
-
-- **실시간 업데이트** — Supabase Realtime으로 새 무드가 즉시 지도에 표시
-- **프라이버시 보호** — GPS 좌표 ±100m 지터, 세션 전용 UUID, 계정 불필요
-- **대시보드** — 글로벌 평균 무드, 지역별 분포, 국가별 랭킹 제공
-- React 19 + MapLibre GL JS 프론트엔드, FastAPI + PostGIS (Supabase) 백엔드
-
-🔗 [GitHub](https://github.com/sonic240612/HueWorld) · [Live Demo](https://hueworld.vercel.app)
 
 ### Mars Panic!!! — 비공개 프로젝트
 
