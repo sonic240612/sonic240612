@@ -22,7 +22,7 @@ Computer Engineering · AI-First Development
 
 | Category | Projects |
 | :--- | :--- |
-| **Playground** | [open-survivor](https://github.com/sonic240612/open-survivor) · [LADDER](https://github.com/sonic240612/LADDER) · [TikaTuka](https://github.com/sonic240612/TikaTuka) · [iF](https://github.com/sonic240612/iF) · Mars Panic!!! |
+| **Playground** | [open-survivor](https://github.com/sonic240612/open-survivor) · [LADDER](https://github.com/sonic240612/LADDER) · [TikaTuka](https://github.com/sonic240612/TikaTuka) · [iF](https://github.com/sonic240612/iF) · [beatsync](https://github.com/sonic240612/beatsync) · Mars Panic!!! |
 | **Tools** | [WhereTo?](https://github.com/sonic240612/whereto) · [PixelCircle](https://github.com/sonic240612/pixel-circle) |
 | **Lab** | [Lodex](https://github.com/sonic240612/Lodex) · [hand-in-hand](https://github.com/sonic240612/hand-in-hand) |
 | **Life** | [HueWorld](https://github.com/sonic240612/HueWorld) · [zen_pebble](https://github.com/sonic240612/zen_pebble) · [Focus Forest](https://github.com/sonic240612/Focus-Forest) |
@@ -62,14 +62,15 @@ Computer Engineering · AI-First Development
 
 ### <img src="assets/project-icons/whereto.svg" width="32" height="32" align="middle" alt="" /> &nbsp; WhereTo?
 
-**랜덤 장소 추천 서비스**
+**지도 기반 랜덤 장소 탐색 서비스**
 
-결정 장애를 위한 랜덤 장소 추천. 지도에서 범위를 드래그하면 그 안에서 무작위 장소를 추천합니다.
+어디로 갈지 고민될 때, 원하는 지역과 카테고리 안에서 다음 목적지를 뽑아보는 앱입니다. 위치 권한 없이도 지역 검색이나 지도 이동으로 시작할 수 있습니다.
 
-- 모바일 터치 드래그로 범위 지정 지원
-- Google Maps · Apple Maps 길찾기 링크 연동, 방문 기록 저장
+- **영역·카테고리별 추첨** — 지도에 점을 찍어 다각형 범위를 지정하고, 음식점·카페 등 원하는 분류의 장소 후보를 무작위로 추천
+- **Liquid Glass UI** — 지도 위 유리 굴절·반사광과 스프링 모션, 클래식 디자인 전환 및 효과 조절
+- **공유·방문 기록** — 장소 링크 공유, 카카오맵·Google Maps·Apple Maps 길찾기, 브라우저 내 기록 관리와 JSON 백업·복원
 
-**Stack** · React 19 + Leaflet 프론트엔드, Express + PostgreSQL (Neon) 백엔드
+**Stack** · React 19 + TypeScript + Vite + Tailwind CSS, Kakao Maps SDK · 선택적 백엔드: Express + Prisma + PostgreSQL
 
 [Live Demo ↗](https://whereto-swart.vercel.app) · [GitHub](https://github.com/sonic240612/whereto)
 
