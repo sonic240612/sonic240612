@@ -4,7 +4,7 @@ Computer Engineering · AI-First Development
 
 <sub>Stable Diffusion · AI Agents · LLM</sub>
 
-[Projects Portal ↗](https://projects-portal-beta.vercel.app) · [Featured Projects](#featured-projects) · [Competitions](#competitions)
+[sonic-blog ↗](https://sonic240612.github.io/sonic-blog/) · [Featured Projects](#featured-projects) · [Competitions](#competitions)
 
 ## AI-First Development
 
@@ -14,11 +14,11 @@ Computer Engineering · AI-First Development
 
 1인이 기획부터 배포까지 전체를 책임지는 구조에서, **어떤 기술을 조합할지 결정하고 AI가 만든 결과를 검증·마무리하는 것**이 제 주된 역할입니다.
 
-## Projects Portal
+## sonic-blog
 
-제가 만든 프로젝트를 한 번에 볼 수 있는 포털 페이지입니다.
+제가 만든 프로젝트들을 한 번에 볼 수 있는 블로그입니다.
 
-[프로젝트 둘러보기 ↗](https://projects-portal-beta.vercel.app) · [GitHub](https://github.com/sonic240612/projects-portal)
+[프로젝트 둘러보기 ↗](https://sonic240612.github.io/sonic-blog/) · [GitHub](https://github.com/sonic240612/sonic-blog)
 
 | Category | Projects |
 | :--- | :--- |
