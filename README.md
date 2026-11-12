@@ -24,7 +24,7 @@ Computer Engineering · AI-First Development
 | :--- | :--- |
 | **Playground** | [open-survivor](https://github.com/sonic240612/open-survivor) · [LADDER](https://github.com/sonic240612/LADDER) · [TikaTuka](https://github.com/sonic240612/TikaTuka) · [iF](https://github.com/sonic240612/iF) · [beatsync](https://github.com/sonic240612/beatsync) · Mars Panic!!! |
 | **Tools** | [WhereTo?](https://github.com/sonic240612/whereto) · [PixelCircle](https://github.com/sonic240612/pixel-circle) |
-| **Lab** | [Lodex](https://github.com/sonic240612/Lodex) · [hand-in-hand](https://github.com/sonic240612/hand-in-hand) |
+| **Lab** | [Lodex](https://github.com/sonic240612/Lodex) · [hand-in-hand](https://github.com/sonic240612/hand-in-hand) · [pi-telegram](https://github.com/sonic240612/pi-telegram) |
 | **Life** | [HueWorld](https://github.com/sonic240612/HueWorld) · [zen_pebble](https://github.com/sonic240612/zen_pebble) · [Focus Forest](https://github.com/sonic240612/Focus-Forest) |
 
 ## Competitions
