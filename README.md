@@ -74,20 +74,30 @@ Computer Engineering · AI-First Development
 
 [Live Demo ↗](https://whereto-swart.vercel.app) · [GitHub](https://github.com/sonic240612/whereto)
 
-### <img src="assets/project-icons/mars-panic.svg" width="32" height="32" align="middle" alt="" /> &nbsp; Mars Panic!!!
+### <img src="assets/project-icons/beatsync.svg" width="32" height="32" align="middle" alt="" /> &nbsp; BeatSync
 
-**멀티플레이 게임** · 비공개
+**실시간 멀티플레이어 음악 퀴즈 & 타임라인 카드 배틀**
 
-Playground(게임) 카테고리의 비공개 프로젝트입니다. 개인적으로 제작 중인 멀티플레이 게임이며, 상세 내용은 추후 공개 예정입니다.
+음원을 듣고 제목과 가수를 맞히는 스피드 퀴즈와 발매연도를 추리해 타임라인 슬롯에 카드를 배치하는 전략 파티 게임입니다. Spotify 무료 계정이나 비로그인 상태에서도 30초 고음질 실음원으로 즉시 플레이할 수 있습니다.
 
-## 사용한 기술
+- **다국어 정답 판정 엔진** — K-Pop, J-Pop, Pop의 한·일·영 공식 표기 및 음차/번역 매칭, 아티스트 성/이름 규칙 지원
+- **무중단 30초 스트리밍** — Spotify Web API와 iTunes/Deezer 자동 폴백 오디오 파이프라인으로 유료 구독 장벽 제거
+- **Liquid Glass UI & 소켓 동기화** — visionOS 스타일 광학 굴절 인터페이스와 Socket.IO 기반 실시간 룸 상태 머신
 
-아래는 프로젝트에 적용된 스택입니다. AI와 함께 개발하면서 직접 다루며 익혀가는 중이에요.
+**Stack** · Next.js 15 (React 19) + Express 5, Socket.IO, Tailwind CSS, Zustand, Spotify Web API
 
-| 구분 | 기술 |
-|------|------|
-| Frontend | TypeScript · React (Vite), JavaScript |
-| Backend | Node.js (Express · Fastify), Python (FastAPI) |
-| AI / ML | LLM Integration, RAG |
-| DB / Realtime | PostgreSQL (+ PostGIS), Supabase Realtime, Socket.IO |
-| Infra | Docker, Vercel |
+[GitHub ↗](https://github.com/sonic240612/beatsync)
+
+### <img src="assets/project-icons/pi-telegram.svg" width="32" height="32" align="middle" alt="" /> &nbsp; pi-telegram
+
+**pi 코딩 에이전트용 Telegram 원격 브리지 확장**
+
+터미널에서 실행 중인 pi 코딩 에이전트 세션을 모바일이나 외부 Telegram 채팅에서 제어할 수 있도록 연결하는 확장 프로그램입니다. 터미널의 실시간 출력을 미러링하고 모바일에서도 주요 명령을 실행할 수 있습니다.
+
+- **원격 세션 미러링** — 터미널 진행 상황, 모델의 사고 과정(Thinking), 도구 실행 결과 및 오류를 Telegram 메시지로 실시간 중계
+- **인라인 키보드 인터랙션** — 주요 pi 명령어와 선택지를 인라인 버튼으로 구성해 모바일에서도 손쉬운 제어 지원
+- **보안 페어링** — 일회용 코드 기반 터미널 승인 절차를 거친 인가된 사용자만 세션에 접근 가능하도록 보호
+
+**Stack** · TypeScript, Node.js, Telegram Bot API, pi Agent SDK
+
+[GitHub ↗](https://github.com/sonic240612/pi-telegram)
